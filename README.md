@@ -43,3 +43,6 @@ Updating:
 If not paused and still alive, the snake moves and checks for food consumption or collisions.
 Rendering:
 It clears the screen, optionally draws a grid overlay, renders snake and food, overlays score and state messages, then displays the updated screen
+
+#OUTPUT:-
+![Image](https://github.com/user-attachments/assets/1173b901-f9dc-4784-8cf3-b0bcdaaec9e5)
